@@ -174,6 +174,6 @@ This project is licensed under the MIT License – see the [LICENSE](https://git
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) for modern Android UI
 - [Ktor](https://ktor.io/) for robust API consumption
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) for charting
-- Special thanks to [Philipp Lackner (PlCoding)](https://www.youtube.com/@PhilippLackner) for his excellent free course on building a Crypto Tracker app using Clean Architecture, MVVM, and Compose. This project is inspired by that course and built with additional improvements for learning purposes.
+- Special thanks to [Philipp Lackner (PlCoding)](https://www.youtube.com/@PhilippLackner) for his excellent free course on building a Crypto Tracker app using Clean Architecture, MVI, and Compose. This project is inspired by that course and built with additional improvements for learning purposes.
 
 ---
