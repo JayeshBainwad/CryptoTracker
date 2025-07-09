@@ -51,7 +51,7 @@
 | Ktor Client | 2.3.5 |
 | Material 3 | 1.2.0+ |
 
-*Refer to `gradle/libs.versions.toml`(https://github.com/JayeshBainwad/CryptoTracker/blob/master/gradle/libs.versions.toml) for full dependency versions.*
+*Refer to [`gradle/libs.versions.toml`](https://github.com/JayeshBainwad/CryptoTracker/blob/master/gradle/libs.versions.toml) for full dependency versions.*
 
 ---
 
