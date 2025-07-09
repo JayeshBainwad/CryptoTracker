@@ -164,7 +164,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](https://github.com/JayeshBainwad/CryptoTracker/blob/main/LICENSE) file.
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/JayeshBainwad/CryptoTracker/blob/master/LICENSE) file.
 
 ---
 
@@ -174,5 +174,6 @@ This project is licensed under the MIT License – see the [LICENSE](https://git
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) for modern Android UI
 - [Ktor](https://ktor.io/) for robust API consumption
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) for charting
+- Special thanks to [Philipp Lackner (PlCoding)](https://www.youtube.com/@PhilippLackner) for his excellent free course on building a Crypto Tracker app using Clean Architecture, MVVM, and Compose. This project is inspired by that course and built with additional improvements for learning purposes.
 
 ---
